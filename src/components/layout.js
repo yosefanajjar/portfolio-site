@@ -27,7 +27,7 @@ const Layout = ({ children }) => (
             Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
             'Helvetica Neue', sans-serif;
           color: #fff;
-          width: 100vw;
+          max-width: 100vw;
         }
 
         h1,
