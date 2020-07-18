@@ -110,14 +110,14 @@ const IndexPage = () => (
               }
             `}
           >
-            I am a passionate developer, who is always looking for the
-            latest trends in web development. I am so desperate to
-            improve my skills every single day to reach my goals
-            quicker. I have experience in building responsive and
-            modern web applications using JavaScript in the
-            front-end(React) and in the back-end(Node) in addition to
-            other skills like testing, debugging and deploying
-            websites.
+              I am a passionate developer, who is always looking for the
+              latest trends in web development. I am so desperate to
+              improve my skills every single day to reach my goals
+              quicker. I have experience in building responsive and
+              modern web applications using JavaScript in the
+              front-end(React) and in the back-end(Node) in addition to
+              other skills like testing, debugging and deploying
+              websites.
           </p>
         </div>
 
